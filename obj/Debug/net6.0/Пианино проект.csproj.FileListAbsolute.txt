@@ -1,0 +1,15 @@
+D:\проекты визуал студио\Пианино проект\bin\Debug\net6.0\Пианино проект.exe
+D:\проекты визуал студио\Пианино проект\bin\Debug\net6.0\Пианино проект.deps.json
+D:\проекты визуал студио\Пианино проект\bin\Debug\net6.0\Пианино проект.runtimeconfig.json
+D:\проекты визуал студио\Пианино проект\bin\Debug\net6.0\Пианино проект.dll
+D:\проекты визуал студио\Пианино проект\bin\Debug\net6.0\Пианино проект.pdb
+D:\проекты визуал студио\Пианино проект\obj\Debug\net6.0\Пианино проект.csproj.AssemblyReference.cache
+D:\проекты визуал студио\Пианино проект\obj\Debug\net6.0\Пианино проект.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекты визуал студио\Пианино проект\obj\Debug\net6.0\Пианино проект.AssemblyInfoInputs.cache
+D:\проекты визуал студио\Пианино проект\obj\Debug\net6.0\Пианино проект.AssemblyInfo.cs
+D:\проекты визуал студио\Пианино проект\obj\Debug\net6.0\Пианино проект.csproj.CoreCompileInputs.cache
+D:\проекты визуал студио\Пианино проект\obj\Debug\net6.0\Пианино проект.dll
+D:\проекты визуал студио\Пианино проект\obj\Debug\net6.0\refint\Пианино проект.dll
+D:\проекты визуал студио\Пианино проект\obj\Debug\net6.0\Пианино проект.pdb
+D:\проекты визуал студио\Пианино проект\obj\Debug\net6.0\Пианино проект.genruntimeconfig.cache
+D:\проекты визуал студио\Пианино проект\obj\Debug\net6.0\ref\Пианино проект.dll
